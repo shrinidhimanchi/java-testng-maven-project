@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+    <line>
+      <![CDATA[Test Started: validateAboutItemTextTest]]>
+    </line>
+    <line>
+      <![CDATA[The Value Of Text is : About this item
+Resolution : 8K QLED (7680 x 4320) resolution | Refresh Rate : 120 Hertz
+Connectivity: 4 HDMI ports to connect set top box, Blu-ray speakers or a gaming console | 3 USB ports to connect hard drives or other USB devices
+Sound: 80 Watts Output | Powerful Speakers with Dolby Digital Plus | Object Tracking Sound | Q Symphony
+Smart TV Features : Prime Video, Hotstar, Netflix, Zee5 and more | Voice Assistant: Alexa. Bixby and Google Voice Assistant | Far Field Voice Interaction | Tap View | Multi View
+Display : 8K Neo QLED Panel | Neo Slim Design | HDR10 + | 100% Color Volume with Quantum Dot | Quantum HDR 24x
+› See more product details]]>
+    </line>
+    <line>
+      <![CDATA[Test Success: validateAboutItemTextTest]]>
+    </line>
+  </reporter-output>
+  <suite started-at="2022-07-27T16:35:21 NZST" name="RegressionSuite" finished-at="2022-07-27T16:35:42 NZST" duration-ms="20312">
+    <groups>
+    </groups>
+    <test started-at="2022-07-27T16:35:21 NZST" name="Tests" finished-at="2022-07-27T16:35:42 NZST" duration-ms="20312">
+      <class name="com.ui.framework.testCases.Department">
+        <test-method is-config="true" signature="initialise()[pri:0, instance:com.ui.framework.testCases.Department@4ddbbdf8]" started-at="2022-07-27T16:35:21 NZST" name="initialise" finished-at="2022-07-27T16:35:26 NZST" duration-ms="4308" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initialise -->
+        <test-method signature="validateAboutItemTextTest()[pri:0, instance:com.ui.framework.testCases.Department@4ddbbdf8]" started-at="2022-07-27T16:35:26 NZST" name="validateAboutItemTextTest" finished-at="2022-07-27T16:35:41 NZST" duration-ms="15716" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Test Started: validateAboutItemTextTest]]>
+            </line>
+            <line>
+              <![CDATA[The Value Of Text is : About this item
+Resolution : 8K QLED (7680 x 4320) resolution | Refresh Rate : 120 Hertz
+Connectivity: 4 HDMI ports to connect set top box, Blu-ray speakers or a gaming console | 3 USB ports to connect hard drives or other USB devices
+Sound: 80 Watts Output | Powerful Speakers with Dolby Digital Plus | Object Tracking Sound | Q Symphony
+Smart TV Features : Prime Video, Hotstar, Netflix, Zee5 and more | Voice Assistant: Alexa. Bixby and Google Voice Assistant | Far Field Voice Interaction | Tap View | Multi View
+Display : 8K Neo QLED Panel | Neo Slim Design | HDR10 + | 100% Color Volume with Quantum Dot | Quantum HDR 24x
+› See more product details]]>
+            </line>
+            <line>
+              <![CDATA[Test Success: validateAboutItemTextTest]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- validateAboutItemTextTest -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.ui.framework.testCases.Department@4ddbbdf8]" started-at="2022-07-27T16:35:41 NZST" name="tearDown" finished-at="2022-07-27T16:35:42 NZST" duration-ms="279" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.ui.framework.testCases.Department -->
+    </test> <!-- Tests -->
+  </suite> <!-- RegressionSuite -->
+</testng-results>

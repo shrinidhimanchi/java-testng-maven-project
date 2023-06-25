@@ -1,0 +1,22 @@
+27-07-2022 16:35:21 INFO  BaseTest:34 - Browser Is Opened
+27-07-2022 16:35:21 INFO  DriverManager:59 - Create Local Driver Object
+27-07-2022 16:35:21 INFO  DriverManager:92 - Setup Chrome Driver
+27-07-2022 16:35:22 INFO  WebDriverManager:1228 - Using chromedriver 103.0.5060.134 (resolved driver for Chrome 103)
+27-07-2022 16:35:22 INFO  WebDriverManager:1283 - Exporting webdriver.chrome.driver as /Users/manchi/.cache/selenium/chromedriver/mac-arm64/103.0.5060.134/chromedriver
+27-07-2022 16:35:23 INFO  DriverManager:100 - Maximize Windows screen
+27-07-2022 16:35:23 INFO  DriverManager:103 - Creating Local Chrome Driver With Appropriate Chrome Options
+27-07-2022 16:35:26 INFO  BasePage:30 - Click On Hamburger Menu
+27-07-2022 16:35:28 INFO  HomePage:22 - Click On Menu Item Appliances
+27-07-2022 16:35:28 INFO  HomePage:33 - Click On Menu Item Television
+27-07-2022 16:35:29 INFO  TelevisionPage:23 - Scroll To Section : Brands
+27-07-2022 16:35:29 INFO  BasePage:66 - Wait For Page To Load
+27-07-2022 16:35:33 INFO  TelevisionPage:34 - Click On CheckBox Based On Matching Text : Samsung
+27-07-2022 16:35:35 INFO  ResultPage:30 - Click On Drop Down Based On Value
+27-07-2022 16:35:35 INFO  BasePage:66 - Wait For Page To Load
+27-07-2022 16:35:35 INFO  BasePage:196 - Select Drop Down Based On Visible Text
+27-07-2022 16:35:36 INFO  ResultPage:41 - Click On Second Item From Results List
+27-07-2022 16:35:36 INFO  BasePage:66 - Wait For Page To Load
+27-07-2022 16:35:36 INFO  BasePage:219 - Click On Second Highest Priced Item
+27-07-2022 16:35:41 INFO  BasePage:252 - Get Text For About This Item
+27-07-2022 16:35:41 INFO  ResultPage:55 - Check AboutItem Element exists
+27-07-2022 16:35:41 INFO  DriverManager:141 - Close All Opened Tabs and Close Driver
